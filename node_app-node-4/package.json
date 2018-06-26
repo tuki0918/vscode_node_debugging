@@ -1,0 +1,22 @@
+{
+  "name": "vscode_node_debugging",
+  "version": "1.0.0",
+  "description": "debugging for simple docker node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tuki0918/vscode_node_debugging.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuki0918/vscode_node_debugging/issues"
+  },
+  "homepage": "https://github.com/tuki0918/vscode_node_debugging#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
